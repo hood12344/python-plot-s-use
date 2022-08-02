@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt # 匯入matplotlib 的pyplot 類別，並設定�
 from matplotlib.font_manager import FontProperties # 中文字體
 import matplotlib.image as mpimg
 
-
+測試by Dong
 # 換成中文的字體
 # plt.rcParams['font.新細明體'] = ['SimSun'] # 步驟一（替換sans-serif字型）
 plt.rcParams['font.sans-serif'] = ['Microsoft JhengHei']
