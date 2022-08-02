@@ -1,6 +1,6 @@
 # python-plot-s-use
 python 製作圖表
-
+#資料來源:https://covid-19.nchc.org.tw/city_confirmed.php
 import matplotlib.pyplot as plt
 #Matplotlib 中文標籤
 plt.rcParams['font.sans-serif']=['SimSun']
